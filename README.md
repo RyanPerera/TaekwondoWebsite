@@ -1,2 +1,1 @@
-Taekwondo Website.
-Set to launch in late 2020.
+DEPRECATED Taekwondo Website for trial purposes
